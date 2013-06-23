@@ -1,0 +1,7 @@
+button#c2a {
+  transition: background 0.2s;
+}
+button#c2a:hover {
+  cursor: pointer;
+  background: #444;
+}
